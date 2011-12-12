@@ -1,5 +1,5 @@
 This repo runs the Cloud Apps search app for finding Applications that you can push to a Cloud PaaS, like Cloud Foundry.
 
-The latest copy of this service is available at https://cloud-apps.github.com/
+The latest copy of this service is available at http://cloud-apps.github.com/
 
 If you are interested in making your applications known to this service, drop by #cloud-apps on irc.freenode.net.
